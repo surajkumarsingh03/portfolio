@@ -47,9 +47,9 @@ const Hero: React.FC = () => {
             <span className="inline-block bg-primary-100 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 px-3 py-1 rounded-full text-sm font-medium mb-4">
             Full Stack Developer
             </span>
-            
+          
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-900 dark:text-white leading-tight">
-              Building <span className="text-primary-600 dark:text-primary-400">Digital Solutions</span> That Matter
+            Bringing <span className="text-primary-600 dark:text-primary-400">Ideas to Life</span> Ideas to Life
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-xl mx-auto lg:mx-0">
