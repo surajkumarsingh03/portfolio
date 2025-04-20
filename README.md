@@ -37,7 +37,7 @@ Built with:
 📫 Contact
 Feel free to reach out:
 
-📧 Email: surajkuamre04@gmail.com
+📧 Email: surajkumare04@gmail.com
 
 🐱 GitHub: @surajkumarsingh03
 
