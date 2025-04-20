@@ -97,16 +97,7 @@ const Hero: React.FC = () => {
               >
                 <Linkedin size={24} />
               </motion.a>
-              {/* <motion.a 
-                href="https://twitter.com" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                whileHover={{ y: -3 }}
-                className="text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors duration-300"
-                aria-label="Twitter"
-              >
-                <Twitter size={24} />
-              </motion.a> */}
+             
             </div>
           </motion.div>
           
