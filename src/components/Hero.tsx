@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
             </span>
           
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 text-gray-900 dark:text-white leading-tight">
-            Bringing <span className="text-primary-600 dark:text-primary-400">Ideas to Life</span> Ideas to Life
+            Bringing <span className="text-primary-600 dark:text-primary-400">Ideas to Life</span> through Code
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-xl mx-auto lg:mx-0">
